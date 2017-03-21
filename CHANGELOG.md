@@ -1,5 +1,4 @@
-# 2016-02-13
+# 2017-03-21
 
-* Update requirements to latest versions
-* Add oss related files
-* Add require.io badge for requirements to README
+* Update LICENSE
+* Apply default Alkivi settings
