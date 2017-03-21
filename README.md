@@ -2,7 +2,7 @@ python-package-boilerplate
 ==========================
 
 [![Build Status](https://travis-ci.org/alkivi-sas/python-package-boilerplate.svg?branch=master)](https://travis-ci.org/alkivi-sas/python-package-boilerplate)
-[![Requires.io](https://requires.io/github/martintamare/python-package-boilerplate/requirements.svg?branch=master)](https://requires.io/github/martintamare/python-package-boilerplate/requirements?branch=master)
+[![Requirements Status](https://requires.io/github/alkivi-sas/python-package-boilerplate/requirements.svg?branch=master)](https://requires.io/github/alkivi-sas/python-package-boilerplate/requirements/?branch=master)
 
 Boilerplate for a Python Package
 
