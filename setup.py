@@ -2,8 +2,6 @@
 
 # Always prefer setuptools over distutils
 from setuptools import setup, find_packages
-# To use a consistent encoding
-from codecs import open
 from os import path
 
 
@@ -16,7 +14,7 @@ try:
     import pypandoc
     long_description = pypandoc.convert(readme, 'rst')
 except(IOError, ImportError):
-    long_description = open(readme).read()
+    long_description = ""
 
 setup(
     name='TODO',
